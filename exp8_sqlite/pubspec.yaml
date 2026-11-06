@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Add suitable SQLite packages here
+  sqflite: ^2.3.0
+  path: ^1.9.0

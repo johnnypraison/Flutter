@@ -1,0 +1,6 @@
+flutter:
+  uses-material-design: true
+
+  # Add your assets configuration here:
+  assets:
+    - assets/images/
